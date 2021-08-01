@@ -30,8 +30,8 @@ kanye_button.grid(row=1, column=0)
 
 window.mainloop()
 '''
-MY_LAT = 10.375942
-MY_LNG = 105.418541
+MY_LAT = 0.00
+MY_LNG = 0.00
 parameters = {
     "lat": MY_LAT,
     "lng": MY_LNG,
