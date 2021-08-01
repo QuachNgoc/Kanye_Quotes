@@ -1,7 +1,7 @@
 import requests
 from tkinter import *
-from datetime import datetime
-'''
+
+
 def get_quote():
     # get(): get the end point
     response = requests.get(url="https://api.kanye.rest/")
@@ -29,5 +29,5 @@ kanye_button = Button(image=kanye_img, highlightthickness=0, command=get_quote)
 kanye_button.grid(row=1, column=0)
 
 window.mainloop()
-'''
+
 
