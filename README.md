@@ -1,1 +1,1 @@
-# Your_IDOL_Quotes
+# Kanye's_Funny_Quotes
